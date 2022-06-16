@@ -7,6 +7,7 @@ import 'package:ditonton/presentation/bloc/tvseries_bloc/top_rated_tvseries/top_
 import 'package:ditonton/presentation/bloc/tvseries_bloc/watchlist_tvseries/watchlist_tvseries_bloc.dart';
 import 'package:mocktail/mocktail.dart';
 
+//tvseries
 class FakeOnTheAirNowTVSeriesEvent extends Fake
     implements AiringTodayTVSeriesEvent {}
 
