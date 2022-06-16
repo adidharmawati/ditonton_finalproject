@@ -29,7 +29,7 @@ class FakePopularTVSeriesBloc
 // Top Rated
 class FakeTopRatedTVSeriesEvent extends Fake implements TopRatedTVSeriesEvent {}
 
-class FakeTopRatedTVSeriesState extends Fake implements TopRatedTVSeriesEvent {}
+class FakeTopRatedTVSeriesState extends Fake implements TopRatedTVSeriesState {}
 
 class FakeTopRatedTVSeriesBloc
     extends MockBloc<TopRatedTVSeriesEvent, TopRatedTVSeriesState>
