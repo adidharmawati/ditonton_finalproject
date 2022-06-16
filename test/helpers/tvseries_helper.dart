@@ -17,7 +17,6 @@ class FakeOnTheAirNowTVSeriesBloc
     extends MockBloc<AiringTodayTVSeriesEvent, AiringTodayTVSeriesEvent>
     implements AiringTodayTVSeriesEvent {}
 
-// Popular
 class FakePopularTVSeriesEvent extends Fake implements PopularTVSeriesEvent {}
 
 class FakePopularTVSeriesState extends Fake implements PopularTVSeriesState {}
@@ -26,7 +25,6 @@ class FakePopularTVSeriesBloc
     extends MockBloc<PopularTVSeriesEvent, PopularTVSeriesState>
     implements PopularTVSeriesBloc {}
 
-// Top Rated
 class FakeTopRatedTVSeriesEvent extends Fake implements TopRatedTVSeriesEvent {}
 
 class FakeTopRatedTVSeriesState extends Fake implements TopRatedTVSeriesState {}
@@ -35,7 +33,6 @@ class FakeTopRatedTVSeriesBloc
     extends MockBloc<TopRatedTVSeriesEvent, TopRatedTVSeriesState>
     implements TopRatedTVSeriesBloc {}
 
-// Detail Tv Series
 class FakeTVSeriesDetailEvent extends Fake implements DetailTVSeriesEvent {}
 
 class FakeTVSeriesDetailState extends Fake implements DetailTVSeriesState {}
@@ -44,7 +41,6 @@ class FakeDetailTVSeriesBloc
     extends MockBloc<DetailTVSeriesEvent, DetailTVSeriesState>
     implements DetailTVSeriesBloc {}
 
-// Recomendaion
 class FakeTVSeriesRecommendationsEvent extends Fake
     implements RecomendationTVSeriesEvent {}
 
@@ -55,7 +51,6 @@ class FakeTVSeriesRecommendationsBloc
     extends MockBloc<RecomendationTVSeriesEvent, RecomendationTVSeriesState>
     implements RecomendationTVSeriesBloc {}
 
-// Watch List
 class FakeWatchlistTVSeriesEvent extends Fake
     implements WatchlistTVSeriesEvent {}
 
