@@ -1,0 +1,294 @@
+{
+    "adult": false,
+    "backdrop_path": "/9hp4JNejY6Ctg9i9ItkM9rd6GE7.jpg",
+    "created_by": [
+        {
+            "id": 1241179,
+            "credit_id": "52582207760ee36aaa7bfebd",
+            "name": "Charlie Parsons",
+            "profile_path": null
+        }
+    ],
+    "episode_run_time": [
+        45
+    ],
+    "first_air_date": "1997-09-13",
+    "genres": [
+        {
+            "id": 10764,
+            "name": "Reality"
+        }
+    ],
+    "homepage": "http://tv4.se/robinson/",
+    "id": 12610,
+    "in_production": true,
+    "languages": [
+        "sv"
+    ],
+    "last_air_date": "2022-05-29",
+    "last_episode_to_air": {
+        "air_date": "2022-05-29",
+        "episode_number": 51,
+        "id": 3726256,
+        "name": "",
+        "overview": "",
+        "production_code": "",
+        "runtime": 44,
+        "season_number": 21,
+        "still_path": null,
+        "vote_average": 0.0,
+        "vote_count": 0
+    },
+    "name": "Robinson",
+    "next_episode_to_air": null,
+    "networks": [
+        {
+            "name": "TV4",
+            "id": 352,
+            "logo_path": "/9zmhGgy7jANwrQduB16IubC10KM.png",
+            "origin_country": "SE"
+        },
+        {
+            "name": "SVT1",
+            "id": 356,
+            "logo_path": "/zFb3TsNzVC8STlkSzbnF1FTHXTA.png",
+            "origin_country": "SE"
+        },
+        {
+            "name": "TV3",
+            "id": 457,
+            "logo_path": "/adypqgsvih7y4DpaPvu3yeeKtF1.png",
+            "origin_country": "SE"
+        },
+        {
+            "name": "Sjuan",
+            "id": 854,
+            "logo_path": "/A5MluV2bOnC6X5pZbEQ5KJR6doV.png",
+            "origin_country": "SE"
+        }
+    ],
+    "number_of_episodes": 264,
+    "number_of_seasons": 21,
+    "origin_country": [
+        "SE"
+    ],
+    "original_language": "sv",
+    "original_name": "Robinson",
+    "overview": "Expedition Robinson is a Swedish reality television program in which contestants are put into survival situations, and a voting process eliminates one person each episode until a winner is determined. The format was developed in 1994 by Charlie Parsons for a United Kingdom TV production company called Planet 24, but the Swedish debut in 1997 was the first production to actually make it to television.",
+    "popularity": 7.055,
+    "poster_path": "/sWA0Uo9hkiAtvtjnPvaqfnulIIE.jpg",
+    "production_companies": [],
+    "production_countries": [
+        {
+            "iso_3166_1": "FJ",
+            "name": "Fiji"
+        },
+        {
+            "iso_3166_1": "SE",
+            "name": "Sweden"
+        }
+    ],
+    "seasons": [
+        {
+            "air_date": "1997-09-13",
+            "episode_count": 12,
+            "id": 151794,
+            "name": "Season 1",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 1
+        },
+        {
+            "air_date": "1998-09-12",
+            "episode_count": 13,
+            "id": 151795,
+            "name": "Season 2",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 2
+        },
+        {
+            "air_date": "1999-09-25",
+            "episode_count": 13,
+            "id": 151796,
+            "name": "Season 3",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 3
+        },
+        {
+            "air_date": "2000-10-07",
+            "episode_count": 14,
+            "id": 151797,
+            "name": "Season 4",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 4
+        },
+        {
+            "air_date": "2001-10-06",
+            "episode_count": 14,
+            "id": 23507,
+            "name": "Season 5",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 5
+        },
+        {
+            "air_date": "2002-11-16",
+            "episode_count": 13,
+            "id": 23508,
+            "name": "Season 6",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 6
+        },
+        {
+            "air_date": "2003-05-01",
+            "episode_count": 13,
+            "id": 151798,
+            "name": "Season 7",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 7
+        },
+        {
+            "air_date": "2004-09-11",
+            "episode_count": 1,
+            "id": 151799,
+            "name": "Season 8",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 8
+        },
+        {
+            "air_date": "2009-03-21",
+            "episode_count": 11,
+            "id": 23509,
+            "name": "Season 9",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 9
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 190856,
+            "name": "Season 10",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 10
+        },
+        {
+            "air_date": null,
+            "episode_count": 0,
+            "id": 190858,
+            "name": "Season 11",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 11
+        },
+        {
+            "air_date": "2009-11-21",
+            "episode_count": 1,
+            "id": 190859,
+            "name": "Season 12",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 12
+        },
+        {
+            "air_date": "2010-10-07",
+            "episode_count": 1,
+            "id": 190860,
+            "name": "Season 13",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 13
+        },
+        {
+            "air_date": "2011-08-29",
+            "episode_count": 1,
+            "id": 190861,
+            "name": "Season 14",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 14
+        },
+        {
+            "air_date": "2012-08-20",
+            "episode_count": 1,
+            "id": 23511,
+            "name": "Robinson season 15",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 15
+        },
+        {
+            "air_date": "2015-03-30",
+            "episode_count": 1,
+            "id": 190862,
+            "name": "Season 16",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 16
+        },
+        {
+            "air_date": "2018-03-18",
+            "episode_count": 1,
+            "id": 190863,
+            "name": "Season 17",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 17
+        },
+        {
+            "air_date": "2019-03-17",
+            "episode_count": 1,
+            "id": 190864,
+            "name": "Season 18",
+            "overview": "",
+            "poster_path": null,
+            "season_number": 18
+        },
+        {
+            "air_date": "2020-03-15",
+            "episode_count": 51,
+            "id": 151793,
+            "name": "Season 19",
+            "overview": "",
+            "poster_path": "/jOT5EO0fXWbMpJeTqZ42EP1BUN2.jpg",
+            "season_number": 19
+        },
+        {
+            "air_date": "2021-03-21",
+            "episode_count": 51,
+            "id": 187955,
+            "name": "Season 20",
+            "overview": "",
+            "poster_path": "/lxTcahVPvbnleobYo7KdRKaQG1W.jpg",
+            "season_number": 20
+        },
+        {
+            "air_date": "2022-03-20",
+            "episode_count": 51,
+            "id": 284332,
+            "name": "Season 21",
+            "overview": "",
+            "poster_path": "/sWA0Uo9hkiAtvtjnPvaqfnulIIE.jpg",
+            "season_number": 21
+        }
+    ],
+    "spoken_languages": [
+        {
+            "english_name": "Swedish",
+            "iso_639_1": "sv",
+            "name": "svenska"
+        }
+    ],
+    "status": "Returning Series",
+    "tagline": "",
+    "type": "Reality",
+    "vote_average": 5.9,
+    "vote_count": 9
+}
